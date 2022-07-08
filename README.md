@@ -1,5 +1,5 @@
-# Quantum Reacters ⚛️
-Documentation for Quantum Reacters community
+# Quantum Web Heads ⚛️
+Documentation for Quantum Web Heads community
 
 ## Community Onboarding
 Coming soon!
